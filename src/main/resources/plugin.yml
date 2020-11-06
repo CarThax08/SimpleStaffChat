@@ -1,0 +1,4 @@
+name: SimpleStaffChat
+version: ${project.version}
+main: com.github.carthax08.simplestaffchat.Main
+website: github.com/carthax08
