@@ -2,3 +2,7 @@ name: SimpleStaffChat
 version: ${project.version}
 main: com.github.carthax08.simplestaffchat.Main
 website: github.com/carthax08
+commands:
+  staffchat:
+    usage: /staffchat
+    description: Toggles staff chat.
